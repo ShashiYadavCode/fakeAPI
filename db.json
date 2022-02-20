@@ -1,245 +1,155 @@
 {
-  "posts": [
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "0",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "1",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "2",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "3",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "4",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "5",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "6",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "7",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "8",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "9",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "10",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "11",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "12",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "13",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "14",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "15",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "16",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "17",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "18",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "19",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "20",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "21",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "22",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "23",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "24",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "25",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "26",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "27",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "28",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "29",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "30",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "31",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "32",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "33",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "34",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "35",
-        "openDay": 5
-    },
-    {
-        "agType": "Engine",
-        "claimType": "WAR",
-        "id": "36",
-        "openDay": 5
-    },
-    {
-        "agType": "Rear Axle",
-        "claimType": "GW",
-        "id": "37",
-        "openDay": 5
-    },
-    {
-        "agType": "Suspension",
-        "claimType": "WAR",
-        "id": "38",
-        "openDay": 5
-    },
-    {
-        "agType": "ATS",
-        "claimType": "GW",
-        "id": "39",
-        "openDay": 5
-    }
+  "posts":[
+  {
+    "id": "62127886e306fb637efb6208",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 0
+  },
+  {
+    "id": "62127886d88eef2716e6cbc0",
+    "agType": "Rear Axle",
+    "claimType": "GW",
+    "openDay": 0
+  },
+  {
+    "id": "62127886e815c6c8be259c2c",
+    "agType": "ATS",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "6212788651f072facaaf760f",
+    "agType": "Rear Axle",
+    "claimType": "GW",
+    "openDay": 1
+  },
+  {
+    "id": "6212788671122e6a535489ca",
+    "agType": "ATS",
+    "claimType": "GW",
+    "openDay": 1
+  },
+  {
+    "id": "621278861d0ddc497873a9c7",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "621278867c3b960b5599ae28",
+    "agType": "Rear Axle",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "6212788674f3d158ef3784db",
+    "agType": "Suspension",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "6212788612d17624f60fb6dd",
+    "agType": "Suspension",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "62127886fd226360b3fe6eee",
+    "agType": "Suspension",
+    "claimType": "GW",
+    "openDay": 1
+  },
+  {
+    "id": "62127886ac5e127d7226b917",
+    "agType": "Engine",
+    "claimType": "GW",
+    "openDay": 0
+  },
+  {
+    "id": "62127886f66f53c52c0bdfc2",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "621278860d125b23ed20d9a7",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "621278868841d76421723e4f",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 0
+  },
+  {
+    "id": "62127886ac42c0f10fde5e81",
+    "agType": "Engine",
+    "claimType": "GW",
+    "openDay": 0
+  },
+  {
+    "id": "6212788623d0ed9d557fe938",
+    "agType": "Rear Axle",
+    "claimType": "GW",
+    "openDay": 0
+  },
+  {
+    "id": "621278865b9fef693ea3f442",
+    "agType": "Rear Axle",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "62127886681810ab03513321",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 0
+  },
+  {
+    "id": "6212788641dc3cd5f3b537c2",
+    "agType": "ATS",
+    "claimType": "WAR",
+    "openDay": 0
+  },
+  {
+    "id": "6212788698e4ac4b23e10de3",
+    "agType": "Engine",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "62127886a2d1c10ef9459d2b",
+    "agType": "Suspension",
+    "claimType": "GW",
+    "openDay": 1
+  },
+  {
+    "id": "62127886c1d2bc7c81a3312f",
+    "agType": "ATS",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "62127886ce277686cfbbea62",
+    "agType": "ATS",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": "62127886791c606222b2daaa",
+    "agType": "ATS",
+    "claimType": "WAR",
+    "openDay": 1
+  },
+  {
+    "id": 6.212788655451918e+23,
+    "agType": "Engine",
+    "claimType": "GW",
+    "openDay": 0
+  }
 ],
   "profile": {
     "name": "typicode"
